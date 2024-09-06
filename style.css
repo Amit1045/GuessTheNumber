@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(83, 76, 74);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+    /* }
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: x-large; */
+.container{
+margin: auto;
+height: 600px;
+width: 600px;
+border: 5px solid #252529;   
+margin-top: 50px;
+text-align: center;
+background-color: #252552;
+}
+
+#guesstext
+{   background-color: antiquewhite;
+    margin-top: 50px;
+    padding: 10px 50px 10px 20px;
+    text-align: center;
+    font-size: larger;
+}
+.sub
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    background-color: #4b4bca;
+    margin-top: 30px;
+    border-radius: 5px;
+    padding: 10px 30px 10px 30px;
+}
+.heading{
+    text-decoration: underline;
+    color: aliceblue;
+}
+.NumberComparison,.result ,.yourGuess,.detail{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large; 
+}
